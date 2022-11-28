@@ -1,0 +1,2 @@
+# ludius-maven
+maven
